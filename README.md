@@ -21,7 +21,6 @@ GitHub: BerkayAydogan
 - HTML5  
 - CSS3  
 - Netlify Forms (iletişim formu için)
-- 
 ---
 
 ## 📂 Klasör Yapısı
